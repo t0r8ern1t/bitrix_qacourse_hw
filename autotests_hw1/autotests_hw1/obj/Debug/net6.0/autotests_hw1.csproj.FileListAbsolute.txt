@@ -1,0 +1,14 @@
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\bin\Debug\net6.0\autotests_hw1.exe
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\bin\Debug\net6.0\autotests_hw1.deps.json
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\bin\Debug\net6.0\autotests_hw1.runtimeconfig.json
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\bin\Debug\net6.0\autotests_hw1.dll
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\bin\Debug\net6.0\autotests_hw1.pdb
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\obj\Debug\net6.0\autotests_hw1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\obj\Debug\net6.0\autotests_hw1.AssemblyInfoInputs.cache
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\obj\Debug\net6.0\autotests_hw1.AssemblyInfo.cs
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\obj\Debug\net6.0\autotests_hw1.csproj.CoreCompileInputs.cache
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\obj\Debug\net6.0\autotests_hw1.dll
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\obj\Debug\net6.0\refint\autotests_hw1.dll
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\obj\Debug\net6.0\autotests_hw1.pdb
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\obj\Debug\net6.0\autotests_hw1.genruntimeconfig.cache
+D:\git\bitrix_qacourse_hw\autotests_hw1\autotests_hw1\obj\Debug\net6.0\ref\autotests_hw1.dll
