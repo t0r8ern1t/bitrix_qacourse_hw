@@ -29,8 +29,7 @@ namespace autotests_hw2
             var calendar = wait.Until(d => d.FindElement(By.Id("bx_left_menu_menu_calendar")));
             calendar.Click();
 
-            WebDriverWait wait2 = new WebDriverWait(driver, TimeSpan.FromSeconds(30));
-            var newEvent = wait2.Until(d => d.FindElement(By.XPath("//button[@class='ui-btn-main']")));
+            var newEvent = wait.Until(d => d.FindElement(By.XPath("//button[@class='ui-btn-main']")));
             newEvent.Click();
 
             var title = wait.Until(d => d.FindElement(By.XPath("//input[@name='name']")));
